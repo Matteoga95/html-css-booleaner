@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    font-weight: bold;
+    font-weight: 600;
   }
 
 header{
@@ -52,6 +52,10 @@ a{
 .riga_azzurra{
     background-color: rgba(177,229,242,255);
 }
+
+table{
+    border-collapse: collapse;
+}
 thead{
 
     background-color: rgba(32,169,229,255);
@@ -62,6 +66,10 @@ thead{
 td{
     margin: 0em;
     padding: 0em;
+}
+
+.testo_evidenziato{
+    background-color: yellow;
 }
 
 footer {
