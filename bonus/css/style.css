@@ -11,7 +11,7 @@ body{
   }
 
 header{
-    background-image:url("../bonus/img/pattern.png");
+    background-image:url("../img/pattern.png");
     background-color: rgba(78,160,255,255);
     margin: 0px;
     padding: 0px;
@@ -88,14 +88,14 @@ h4{
 
 .container_img{
     position: relative;
-    text-align: left;
+    text-align: center;
     color: white;
 }
 
 .text_overimg{
     position: absolute;
-    top: 1em;
-    left: 1em;
+    top: 10%;
+    left: 42%;
     font-size:larger;
     font-weight: bold;
 }
