@@ -1,0 +1,102 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-weight: 600;
+ 
+  }
+  main{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+
+header{
+    background-image:url("../bonus/img/pattern.png");
+    background-color: rgba(78,160,255,255);
+    margin: 0px;
+    padding: 0px;
+    height: 8em;
+}
+
+h1{
+    font-size:3em;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+
+.logo{
+    width: 18%;
+    margin-top: 4em;
+}
+
+p{
+    margin: 0em;
+}
+.descrizioni{
+    margin-bottom: 2em;
+}
+
+.sotto_descrizioni{
+    font-size: x-small;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(53,177,231,255);
+    font-weight: bold;
+}
+
+.terza_colonna{
+    width: 40%;
+}
+.riga_azzurra{
+    background-color: rgba(177,229,242,255);
+}
+
+table{
+    border-collapse: collapse;
+}
+thead{
+
+    background-color: rgba(32,169,229,255);
+    color: white;
+}
+
+
+td{
+    margin: 0em;
+    padding: 0em;
+}
+
+.testo_evidenziato{
+    background-color: yellow;
+}
+
+footer {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+h4{
+    color: grey;
+}
+
+.container_img{
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+.text_overimg{
+    position: absolute;
+    top: 1em;
+    left: 1em;
+    font-size:larger;
+    font-weight: bold;
+}
+
