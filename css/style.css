@@ -44,3 +44,31 @@ a{
     color: rgba(53,177,231,255);
     font-weight: bold;
 }
+
+.terza_colonna{
+    width: 40%;
+}
+.riga_azzurra{
+    background-color: rgba(177,229,242,255);
+}
+thead{
+
+    background-color: rgba(32,169,229,255);
+    color: white;
+}
+
+
+td{
+    margin: 0em;
+    padding: 0em;
+}
+
+footer {
+    margin: 1em;
+    padding: auto;
+}
+
+h4{
+    color: grey;
+}
+
