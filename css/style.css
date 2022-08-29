@@ -1,6 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
+    font-weight: bold;
   }
 
 header{
@@ -66,9 +67,24 @@ td{
 footer {
     margin: 1em;
     padding: auto;
+    
 }
 
 h4{
     color: grey;
+}
+
+.container_img{
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+.text_overimg{
+    position: absolute;
+    top: 1em;
+    left: 1em;
+    font-size:larger;
+    font-weight: bold;
 }
 
